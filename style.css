@@ -58,9 +58,6 @@ header nav a {
   z-index: 1;
   width: 100%;
   font-size: 1.4rem;
-  /* border: 2px solid var(--clr-4); */
-  /* border-top-width: 0;
-  border-bottom-width: 4px; */
   transition: all 0.5s ease;
 }
 header nav::after {
